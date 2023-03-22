@@ -1,5 +1,6 @@
 # YoutubeApp
 Réalisation de Youtube mobile en React Native
+Test sur Android Pixel 5
 
 ## Pour le 19 décembre
   - Login
